@@ -2,3 +2,11 @@ node_modules/
 .env
 .DS_Store
 logs.txt
+project_3/
+source_3/
+backup_3/
+data_3.txt
+processed_3.txt
+student_3.txt
+report_3.json
+sync_report_3.txt
