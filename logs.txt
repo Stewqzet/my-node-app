@@ -1,0 +1,8 @@
+[2026-11-17T18:20:24.911Z] server:started: {"port":3000}
+[2026-11-17T18:22:50.632Z] server:started: {"port":3000}
+[2026-11-17T18:22:54.371Z] request:received: {"url":"/order/42","method":"GET"}
+[2026-11-17T18:22:54.654Z] request:received: {"url":"/favicon.ico","method":"GET"}
+[2026-11-17T18:23:00.515Z] request:received: {"url":"/order/42","method":"GET"}
+[2026-11-17T18:23:00.600Z] request:received: {"url":"/favicon.ico","method":"GET"}
+[2026-11-17T18:25:01.726Z] server:started: {"port":3000}
+[2026-11-17T18:25:11.734Z] server:stopped: {}
